@@ -4,7 +4,7 @@
 
     <groupId>com.laamella</groupId>
     <artifactId>generalized_schlick_bias_gain</artifactId>
-    <version>1.0</version>
+    <version>1.1-SNAPSHOT</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>A Convenient Generalization of Schlick’s Bias and Gain Functions</description>
@@ -60,7 +60,7 @@
         <connection>scm:git:git@github.com:laamella-gad/generalized_schlick_bias_gain.git</connection>
         <developerConnection>scm:git:git@github.com:laamella-gad/generalized_schlick_bias_gain.git</developerConnection>
         <url>https://github.com/laamella-gad/generalized_schlick_bias_gain.git</url>
-        <tag>generalized_schlick_bias_gain-1.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <licenses>
